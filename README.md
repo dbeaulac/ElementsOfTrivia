@@ -16,7 +16,7 @@ This is an original two player game, where the goal is to earn points by answeri
   
   <tr>
     <td><img src="https://github.com/dbeaulac/ElementsOfTrivia/blob/master/ReadMeImages/EoTDifficultySelect.png" width="500"></td>
-    <td><img src="https://github.com/dbeaulac/ElementsOfTrivia/blob/master/ReadMeImages/EoTQuestion1png" width="500"></td>
+    <td><img src="https://github.com/dbeaulac/ElementsOfTrivia/blob/master/ReadMeImages/EoTQuestion1.png" width="500"></td>
   </tr>
   
   <tr>

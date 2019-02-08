@@ -85,6 +85,11 @@
     Private Sub customSetRadio_Click(sender As Object, e As EventArgs) Handles customSetRadio.Click
         customSetOpenDialog.ShowDialog()
     End Sub
+
+    Private Sub defaultRadio_CheckedChanged(sender As Object, e As EventArgs) Handles defaultRadio.CheckedChanged
+        reset()
+    End Sub
+
     Private Sub customSetOpenDialog_FileOk(sender As Object, e As System.ComponentModel.CancelEventArgs) Handles customSetOpenDialog.FileOk
         ' Upon a file being loaded into the game, the default set is cleared, and the new one is loaded.
         clearQuestions()
