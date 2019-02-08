@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ElementsofTrivia
+</name>
+</assembly>
+<members>
+<member name="P:GameDesignFinal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.d1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.d2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.d3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.d4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.d5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.d6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GameDesignFinal.My.Resources.Resources.ElementsOfGameDesign">
+	<summary>
+  Looks up a localized string similar to Elements of Game Design
+Questions featuring information from the textbook.
+@#EASY~'The smallest complete unit of play' is called a...?~Atom~Session~Trial~Game
+@#EASY~'Rules of thumb' that help you play a game are called...?~Heuristics~Combinations~Thoughts~Politics
+@#EASY~The heuristics that evaluate the state of the game are called...?~Positional heuristics~Directional heuristics~Analytic heuristics~Strategic heuristics
+@#EASY~When players can target other players in an arbitrary way that differential [rest of string was truncated]";.
+</summary>
+</member><member name="T:GameDesignFinal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

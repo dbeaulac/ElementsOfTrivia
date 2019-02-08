@@ -1,0 +1,34 @@
+Elements of Game Design
+Questions featuring information from the book "Characteristics of Games" by George Skaff Elias, Richard Garfield, and K. Robert Gutschera.
+@#EASY~'The smallest complete unit of play' is called a...?~Atom~Session~Trial~Game
+@#EASY~'Rules of thumb' that help you play a game are called...?~Heuristics~Combinations~Thoughts~Politics
+@#EASY~The heuristics that evaluate the state of the game are called...?~Positional heuristics~Directional heuristics~Analytic heuristics~Strategic heuristics
+@#EASY~When players can target other players in an arbitrary way that differentially affects their game states, we refer to this as...?~Politics~Theories~Heuristics~Influences
+@#EASY~Rules that someone needs to know for a game to take place, but a player may need not to know, are called...?~Second-order rules~First-order rules~Top-order rules~Zero-order rules
+@#EASY~What term is used to describe a game that ends at some point, with winners and losers being declared?~Orthogames~Omnigames~Fixed ganes~Dynamic games
+@#EASY~What term applies to a variant of a game, played for the sake of variety, or to fix perceived flaws?~House Rules~Personal Styles~Custom Mechanics~Dynamic Adjustments
+@#EASY~What term refers to being able to win more and more, due to gaining an initial advantage?~Snowballing~Avalanching~Spiraling~Piling
+@#EASY~A multiplayer game normally refers to a game that has at least how many sides?~Three~One~Two~Four
+@#EASY~A game that has heuristics of sufficient quality, where players can play perfectly, is considered to be...?~Solved~Completed~Perfected~Established
+@#MEDIUM~'A single continuous period of play' is called a...?~Session~Campaign~Match~Season
+@#MEDIUM~John Conway's game of life and Progress Quest are considered to be...?~Zero player games~'Pure' One player games~One and a half player games~Multiplayer games
+@#MEDIUM~The heuristics that tell you what strategy you should follow are called...?~Directional heuristics~Positional heuristics~Clear heuristics~Strategic heuristics
+@#MEDIUM~What type of elimination does NOT apply to a player with no chance of winning?~Perceived~Mathmetical~Logical~Strict
+@#MEDIUM~This mechanic, where one player can chose a winner between two different players, is called...?~Kingmaking~Targeting~Choosing~Crowning
+@#MEDIUM~Rules that anyone needs to know to play (or profitably watch) a game are called...?~First-order rules~Second-order rules~Zero-order rules~Top-order rules
+@#MEDIUM~If a game complexity tree has relatively many choices, we refer to it as being...?~Bushy~Wide~Expansive~Large
+@#MEDIUM~Which of these is NOT considered a category of hidden information?~'Relative' Hidden Information~'Puzzlelike' Hidden Information~Private Information~Randomness
+@#MEDIUM~What term refers to 'the number of players where the game is best'?~Sweet Spot~Desired Range~Golden Number~Ideal Set
+@#MEDIUM~What term refers to 'commonly accepted patterns that players are already familiar with'?~Standards~Heuristics~Dynamics~Statistics
+@#HARD~'A series of individual games commonly agreed on as the correct amount of play in order to arrive at a satisfactory determination of the victor' is called a...?~Match~Campaign~Season~Session
+@#HARD~What type of eliminatation does a player experience if they have an extremely low (but not quite zero) chance of winning?~Effective~Logical~Mathmatical~Passive
+@#HARD~What is built by taking a two player game (that is not built up from one player games) and adding more players?~Brawl~Race~Mob~Match
+@#HARD~Which of the following is missing from all examples of a non-orthogame?~Victory Condictions~Heuristics~Standards~Politics
+@#HARD~What term describes all of the ways that a game sends and receives information to and from the player?~Interface~Layout~Setup~Display
+@#HARD~If a game can be refered to as a disguised version of some abstract game, then we can refer to it as the...?~Essential Game~Explicit Game~Implicit Game~Internal Game
+@#HARD~If a game complexity tree has relatively few choices, we refer to it as being...?~Sparse~Bare~Empty~Small
+@#HARD~What shows the fluctuation of the bushiness of a game complexity tree throughout the course of a game?~Game arc~Master graph~Narrative tree~Decision path
+@#HARD~What refers to the ability of players to change the progress of games other than themselves?~Interactivity~Influence~Strategy~Functionality
+@#HARD~What term refers to a game where each player is pursuing their own victory condition?~Race~Competition~Brawl~Mob
+
+~~~~~
